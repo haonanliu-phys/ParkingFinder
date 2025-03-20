@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# misc
+# **/.DS_Store
+.DS_Store
+
+#.ipynb_checkpoints
+**/.ipynb_checkpoints
+
+# local env files
+**/.venv/
+
+# data
+**/data/
+
+# archived files
+**/archived/
+
+# parameters
+**/parameters/
+
+# sh
+*.sh
